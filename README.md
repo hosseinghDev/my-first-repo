@@ -1,2 +1,2 @@
 # my-first-repo
-for practive
+for practice
